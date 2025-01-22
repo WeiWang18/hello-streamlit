@@ -24,11 +24,10 @@ def run():
         page_icon="👋",
     )
     st.title("WW's first streamlit")
-    st.write("# :balloon: Welcome to Streamlit! 👋")
-    st.text("test10")
-    
+    # st.write("# :balloon: Welcome to Streamlit! 👋")
+    # st.text("test10")
 
-    st.sidebar.success("Select a demo above.")
+    st.sidebar.success("Select a demo above for test.")
 
     st.markdown(
         """
